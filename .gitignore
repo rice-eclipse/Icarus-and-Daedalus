@@ -1,1 +1,28 @@
+# Temporary Solidworks files
 **/~$*
+# Simulation database files
+*.GEN
+*.MAS
+*.OUT
+*.TEM
+*.LCD
+*.LCN
+*.LCP
+*.LCM
+*.IDA
+*.LDS
+*.STE
+*.STN
+*.FTR
+# *.STP
+*.GCF
+*.ELF
+*.CNT
+*.NP1
+*.NP2
+*.MSF
+*.EIG
+*.DSP
+*.RSL
+# Error log files
+*.log
