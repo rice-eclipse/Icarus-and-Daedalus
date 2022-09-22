@@ -17,6 +17,7 @@
 # *.STP
 *.GCF
 *.ELF
+*.EFF
 *.CNT
 *.NP1
 *.NP2
